@@ -17,6 +17,6 @@ Kit from [AirGradient DIY Shop](https://www.airgradient.com/diyshop/).
 $66 + $15.50 shipping.
 
 ## Enclosure
-Lower shell 18.65 x 89 x 79 mm | 0.73 x 3.5 x 3.11 in
-Upper shell 25 x 89 x 79 mm | 0.98 x 3.5 x 3.11 in
+* Lower shell 18.65 x 89 x 79 mm | 0.73 x 3.5 x 3.11 in
+* Upper shell 25 x 89 x 79 mm | 0.98 x 3.5 x 3.11 in
 
